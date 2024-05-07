@@ -1,1 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<style>
+	body{background-color: pink;}
+		h1 {color: white;}
+		h2 {color: white;}
+	        hr {color: white;}
+		p {color:white;}
 
+</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sprinkle Sprinkle</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body> 
+	 <header>
+		  <hl>hello welcome to Sprinkle Sprinkle</hl>
+		 <h2></h2>
+	 </header>
+	  <nav>
+		  <a href="https://www.w3schools.com">w3 schools</a>
+	  </nav>
+	  <main>
+		  <img src="images/WIN_20240125_11_05_12_Pro.jpg" alt="picture of Qu'Niyah">
+		  <h3>Green pastures case study labs</h3>
+		  <ul>
+ 			 <li><a href="ice cream shop/index.html"> module 3</a></li>
+  			<li><a href="ice cream shop part-2/index.html"> module 4</a></li>
+  			<li><a href="https://www.w3schools.com"> module 5 </a></li>
+			</ul>
+		  <hr>
+	 </main>
+	  <footer>
+		 <small> <p> i certify that all work published to my github.com sub domain is my own work.</p></small>
+		  <style type="text/css">
+		     
+		  </style>
+			  </footer>
+	 
+	
+  </body>
